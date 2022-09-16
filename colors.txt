@@ -3,3 +3,5 @@ purple
 pink
 yellow
 red
+orange 
+maroon
